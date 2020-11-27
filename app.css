@@ -1,0 +1,20 @@
+body {
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+    align-items: center;
+}
+
+.pricing-table {
+    max-width: 80%;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1em;
+}
+
